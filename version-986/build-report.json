@@ -1,0 +1,25 @@
+{
+  "movies": 2000,
+  "html_files": 2017,
+  "movie_pages": 2000,
+  "category_pages": 12,
+  "analytics_missing": [],
+  "out_dir": "/mnt/data/static_movie_site",
+  "zip": "/mnt/data/static_movie_site.zip",
+  "video_url_count": 150,
+  "unique_video_url_count": 20,
+  "category_distribution": {
+    "欧美热门": 167,
+    "精选影院": 167,
+    "悬疑惊悚": 167,
+    "剧情片库": 167,
+    "动作犯罪": 167,
+    "喜剧爱情": 167,
+    "科幻奇幻": 167,
+    "动画家庭": 167,
+    "亚洲剧场": 166,
+    "经典片库": 166,
+    "最新上线": 166,
+    "编辑推荐": 166
+  }
+}
